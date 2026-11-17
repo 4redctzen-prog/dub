@@ -1,0 +1,6 @@
+{
+  "name": "Resonance Dub",
+  "description": "AI multilingual voice dubbing studio with original speaker voice preservation, external LLM translation, and synchronized SRT subtitle generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
